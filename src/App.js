@@ -6,7 +6,7 @@ function App() {
   return(
     <>
     Counter Hooks
-    <CounterHooks initialCount={3}/>
+    <CounterHooks initialCount={0}/>
     </>
     
   );
